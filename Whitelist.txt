@@ -151,3 +151,6 @@
 @@||www.google-analytics.com^
 @@||www.msftncsi.com^
 @@||www.plex.tv^
+@@||static.ada.support^
+@@||snap.licdn.com^
+@@||config.emb-api.com^
