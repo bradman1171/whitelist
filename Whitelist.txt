@@ -157,6 +157,8 @@
 @@||plex.direct^
 @@||facebook.com
 @@||facebook.net
+
+!HoneNetwork Unblock Xbox
 xkms.xboxlive.com
 def-vef.xboxlive.com
 notify.xboxlive.com
