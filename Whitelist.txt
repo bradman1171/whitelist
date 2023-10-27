@@ -155,8 +155,8 @@
 @@||snap.licdn.com^
 @@||config.emb-api.com^
 @@||plex.direct^
-@@||facebook.com
-@@||facebook.net
+@@||facebook.com^
+@@||facebook.net^
 
 !HoneNetwork Unblock Xbox
 xkms.xboxlive.com
