@@ -1,0 +1,2 @@
+local-zone: ".*.playstation.(com|net|org)" always_nxdomain
+local-zone: ".*.playstation.(com|net|org).*.playstation.(com|net|org)" always_nxdomain
