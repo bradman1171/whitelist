@@ -1,5 +1,5 @@
-local-zone: ".*.playstation.(com|net|org)" always_nxdomain
-local-zone: ".*.playstation.(com|net|org).*.playstation.(com|net|org)" always_nxdomain
+local-zone: ".*.playstation.(com|net|org)" always_null
+local-zone: ".*.playstation.(com|net|org).*.playstation.(com|net|org)" always_null
 .*.playstation\.com
 .*.playstation\.net
 .*.playstation\.org
@@ -7,9 +7,9 @@ local-zone: ".*.playstation.(com|net|org).*.playstation.(com|net|org)" always_nx
 .*.playstation\.net.*.playstation\.net
 .*.playstation\.org.*.playstation\.org
 
-local-zone: ".*.playstation\.com" always_nxdomain
-local-zone: ".*.playstation\.net" always_nxdomain
-local-zone: ".*.playstation\.org" always_nxdomain
-local-zone: ".*.playstation\.com.*.playstation\.com" always_nxdomain
-local-zone: ".*.playstation\.net.*.playstation\.net" always_nxdomain
-local-zone: ".*.playstation\.org.*.playstation\.org" always_nxdomain
+local-zone: ".*.playstation\.com" always_null
+local-zone: ".*.playstation\.net" always_null
+local-zone: ".*.playstation\.org" always_null
+local-zone: ".*.playstation\.com.*.playstation\.com" always_null
+local-zone: ".*.playstation\.net.*.playstation\.net" always_null
+local-zone: ".*.playstation\.org.*.playstation\.org" always_null
