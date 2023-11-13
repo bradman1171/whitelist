@@ -30,3 +30,23 @@ local-zone: ".*.playstation.org" always_refuse
 local-zone: ".*.playstation.com*.playstation.com" always_refuse
 local-zone: ".*.playstation.net*.playstation.net" always_refuse
 local-zone: ".*.playstation.org*.playstation.org" always_refuse
+
+local-zone: "post.net.playstation.net" always_refuse
+local-zone: "get.net.playstation.net" always_refuse
+local-zone: "fus01.ps4.update.playstation.net" always_refuse
+local-zone: "feu01.ps4.update.playstation.net" always_refuse
+local-zone: "deu01.ps4.update.playstation.net" always_refuse
+local-zone: "ps4updptl.eu.np.community.playstation.net" always_refuse
+local-zone: "tmdb.np.dl.playstation.net" always_refuse
+local-zone: "themis.dl.playstation.net" always_refuse
+local-zone: "sf.api.np.km.playstation.net" always_refuse
+local-zone: "asm.np.community.playstation.net" always_refuse
+local-zone: "artcdnsecure.ribob01.net" always_refuse
+local-zone: "api-p014.ribob01.net" always_refuse
+local-zone: "apicdn-p014.ribob01.net" always_refuse
+local-zone: "t-prof.np.community.playstation.net" always_refuse
+local-zone: "ps4updptl.eu.np.community.playstation.net" always_refuse
+local-zone: "ps4.updptl.sp-int.community.playstation.net" always_refuse
+local-zone: "ps4updptl.jp.sp-int.community.playstation.net" always_refuse
+local-zone: "ps4-eb.ww.np.dl.playstation.net" always_refuse
+local-zone: "ps4-eb.ww.np.dl.playstation.net" always_refuse
