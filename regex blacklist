@@ -50,3 +50,4 @@ local-zone: "ps4.updptl.sp-int.community.playstation.net" always_refuse
 local-zone: "ps4updptl.jp.sp-int.community.playstation.net" always_refuse
 local-zone: "ps4-eb.ww.np.dl.playstation.net" always_refuse
 local-zone: "ps4-eb.ww.np.dl.playstation.net" always_refuse
+local-zone: "https://www.playstation.com/en-us/" always_refuse
